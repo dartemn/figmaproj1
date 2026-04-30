@@ -758,11 +758,6 @@
   background-color: #5221E6;
 }
 
-.photography__image-box {
-  -o-object-fit: fill;
-     object-fit: fill;
-}
-
 .photography__image-box img {
   width: 100%;
   -o-object-fit: cover;
